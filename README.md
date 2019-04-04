@@ -1,21 +1,36 @@
 # THA2-README
 ## **The Effect of Natural Disasters on Student Learning**
 
-In 2017, Hurricane Harvey hit the gulf coast, leaving rampant flooding and left schools closed for over a month. Despite the shutdown of many Texas schools during Hurricane Harvey recovery, the State of Texas Assessment of Academic Readdiness was still given across subject disciplines. This project seeks to identitfy the effect of natural disasters on student learning and achievement. This will be done using a the same sample of students from a district level dataset of the English I STAAR exam in 2017 (during hurricane recovery) and a district level dataset of the English II STAAR exam in 2018 (post hurricane recovery). The statistical signifiant changes among student achievement will then be mapped onto the Gulf Coast using ArcGIS and comparing that map with that of the worst hit areas during Hurricane Harvey. The driving policy implication is there are currently no immediate academic acommodations for students impacted by a natural disaster in the state of Texas. If there is a significant change in student learning post-natural disaster, the state should implement 'emergency' accomodations to assist students in an academic setting.
+Title of Research:
+The Effect of Natural Disasters on Student Learning: A Case Study of Hurricane Harvey and Gulf Coast School Districts 
 
-##### The dataset contains several indicators, however the ones of interest are:
-- e1_all_d: All Students Tested
-- e1_all_unsatgl_nm: Did not meet grade level performance, All Students
-- e1_all_approgl_nm: Approaches grade level performance
-- e1_all_meetsgl_nm: Meets grade level performance 
-- e1_all_mastrgl_nm: Masters grade level performance
+Objectives:
+•	To identify any significant changes in student learning after a natural disaster using STAAR (State of Texas Assessment of Academic Readiness) data of secondary students
+•	To asses current strategies used by the state of Texas in addressing and accommodating student learning amidst a natural disaster
 
-## **Mapping of Minerals in Produced Water in US Oil and Gas Wells**
-This dataset from the US Geological Society. The dataset reports on the produced water from oil and gas wells across the United States. Produced water is a byproduct of oil and gas production, yielding a large excess of impure water that must be recycled, put back into the well (fracking), or transported away. Within the last decade, a large focus on recycling this water for resuse has emerged.
+Data Sets Used: 
+•	STAAR aggregated 2016-2017 English I and 2017-2018 English II campus level data
+•	High Water Mark Data from USGS during Harvey
 
-My focus using this dataset, is to analyze the output of water in each well, and the impurities in the water across the region, and map the locations of each based on levels of impurities using ArcGIS. This can serve as a resource for portraying and prediciting water output and impurity level based on proximity. This can be useful for continuing to develop novel ways to recycle and clean produced water for the different areas across the United States.
+https://stn.wim.usgs.gov/fev/#HarveyAug2017
 
-## **Studying the Decline of Life Science Patents**
-This data set was pulled from the World Bank Data (https://databank.worldbank.org/data/reports.aspx?source=world-development-indicators) focusing on the number of patents produce in the United States from 1960-2018. This data set was exported as an excel file and the file is uploded to this repository. Upon obtaining data on the number of science and technology patents specificaly produced across the same time period, I look to compare the levels of overall science and technology patents issued as a ratio of all patents.
 
-There has been much speculation about the decline of science and technology patents due to the overwhelming slowness associated with the patent process and the rapid pace at which technology and science is moving. My hypothesis is seeing a decline in science and technology process and an alternative method to the patent process for these fields.
+Overview: 
+
+To date, little research has been done on the effects of student learning and overall achievement after a natural disaster in the community at the secondary level. Hurricane Harvey hit in late August of 2017, damaging regions from the southern Gulf Coast of Texas all the way to the borders of Louisiana. Houston, the largest city affected by the storm, received an unprecedented amount of rainfall causing flood waters to rise throughout the suburbs and city in areas around bayous. Surrounding school districts were shut down for a few weeks to over a month as families were displaced from their homes and lost all belongings to flood waters. 
+
+Post Hurricane Harvey, students eventually returned to schools but remained in a state of recovery in rebuilding their family homes and acquiring new belongings. While much psychological work has been done school-age children and post-natural disaster recovery, far fewer investigations have looked at how these ramifications have impacted student learning in the classroom. The scope of this project seeks to fill that gap in identifying any significant decreases in student learning and achievement in areas affected by Hurricane Harvey along the Gulf Coast of Texas.
+
+The STAAR English I and II data sets reports a variety of indicators to assess student learning. The ones of particular interest are at the campus level of: 
+•	The percentage of all students tested for a campus 
+•	The percentage of students that did not meet grade level performance
+•	The percentage of students approaching grade level performance
+•	The percentage of students that meets grade level performance
+•	The percentage of students that master grade level performance
+
+In an attempt to get an accurate snapshot of student learning, the same set of students will be analyzed by looking at the English I 2017 STAAR scores compared to the English II 2018 STAAR scores. Using these indicators, a T-test will be run to determine significant changes at the campus level pre- and post-Harvey. Any significant change will be identified and mapped onto the state of Texas along with all other non-significant change at the campus level using ArcGIS, and overlaid with county level flood inundation to determine areas where both extensive flooding and a decreases in academic achievement occurred. 
+
+The expectation is to find areas where this paradigm exists and run a chi-square test to ensure that the level of flooding is in fact correlated with student learning. Upon looking at campuses and districts heavily effected, the accommodations the campus/district provides will be examined. To date, there exists no natural disaster 504 accommodations, which are accommodations normally given to students with emotional distress, attention deficit disorder, etc. I propose the State of Texas should adopt an “emergency” 504 plan for students immediately after a natural disaster whose families incurred damage and loss of possessions. 
+
+
+
