@@ -32,14 +32,21 @@ In an attempt to get an accurate snapshot of student learning, the same set of s
 
 The expectation is to find areas where this paradigm exists and run a chi-square test to ensure that the level of flooding is in fact correlated with student learning. Upon looking at campuses and districts heavily effected, the accommodations the campus/district provides will be examined. To date, there exists no natural disaster 504 accommodations, which are accommodations normally given to students with emotional distress, attention deficit disorder, etc. I propose the State of Texas should adopt an “emergency” 504 plan for students immediately after a natural disaster whose families incurred damage and loss of possessions. 
 
-### Data Management Plan###
+### Data Management Plan ###
 **Data Collection**
+
 **Documentation and Metadata**
+
 **Ethics and Legal Compliance**
+
 **Storage and Backup**
+
 **Selection and Preservation**
+
 **Data Sharing**
+
 **Responsibilities and Resources**
+
 
 
 
