@@ -28,11 +28,20 @@ The STAAR English I and II data sets reports a variety of indicators to assess s
 * The percentage of students that meets grade level performance
 * The percentage of students that master grade level performance
 
-In an attempt to get an accurate snapshot of student learning, the same set of students will be analyzed by looking at the English I 2017 STAAR scores compared to the English II 2018 STAAR scores. Using these indicators, a T-test will be run to determine significant changes at the campus level pre- and post-Harvey. Any significant change will be identified and mapped onto the state of Texas along with all other non-significant change at the campus level using ArcGIS, and overlaid with county level flood inundation to determine areas where both extensive flooding and a decreases in academic achievement occurred. 
+In an attempt to get an accurate snapshot of student learning, the same set of students will be analyzed by looking at the English I 2017 STAAR scores compared to the English II 2018 STAAR scores. Using these indicators, a **T-test will** be run to determine significant changes at the campus level pre- and post-Harvey. Any significant change will be identified and mapped onto the state of Texas along with all other non-significant change at the campus level using ArcGIS, and overlaid with county level flood inundation to determine areas where both extensive flooding and a decreases in academic achievement occurred. 
 
 The expectation is to find areas where this paradigm exists and run a chi-square test to ensure that the level of flooding is in fact correlated with student learning. Upon looking at campuses and districts heavily effected, the accommodations the campus/district provides will be examined. To date, there exists no natural disaster 504 accommodations, which are accommodations normally given to students with emotional distress, attention deficit disorder, etc. I propose the State of Texas should adopt an “emergency” 504 plan for students immediately after a natural disaster whose families incurred damage and loss of possessions. 
 
 ### Data Management Plan###
+**Data Collection**
+**Documentation and Metadata**
+**Ethics and Legal Compliance**
+**Storage and Backup**
+**Selection and Preservation**
+**Data Sharing**
+**Responsibilities and Resources**
+
+
 
 
 
