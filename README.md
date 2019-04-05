@@ -34,7 +34,9 @@ The expectation is to find areas where this paradigm exists and run a chi-square
 
 ### Data Management Plan ###
 **Data Collection**
-
+* Collected STAAR aggregate campus level data from the TEA website; data is open source and anonymized.
+* Downloaded CSV data from USGS that reports on high water level areas during Hurricane Harvey as well as reports of incidents processed as "Peak Summaries Data"
+* *Still need to create/collect database for all high school locations and further clean data to only include schools with documented coordinates*
 **Documentation and Metadata**
 
 **Ethics and Legal Compliance**
