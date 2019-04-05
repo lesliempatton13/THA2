@@ -10,9 +10,9 @@ The Effect of Natural Disasters on Student Learning: A Case Study of Hurricane H
 
 **Data Sets Used:** 
 * STAAR aggregated 2016-2017 English I and 2017-2018 English II campus level data
-* High Water Mark Data from USGS during Harvey
+* High Water Mark and Peak Summaries of Incidents Data from USGS during Hurricane Harvey
 
-https://stn.wim.usgs.gov/fev/#HarveyAug2017
+
 
 
 **Overview:** 
