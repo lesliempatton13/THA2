@@ -37,6 +37,7 @@ The expectation is to find areas where this paradigm exists and run a chi-square
 * Collected STAAR aggregate campus level data from the TEA website; data is open source and anonymized.
 * Downloaded CSV data from USGS that reports on high water level areas during Hurricane Harvey as well as reports of incidents processed as "Peak Summaries Data"
 * *Still need to create/collect database for all high school locations and further clean data to only include schools with documented coordinates*
+
 **Documentation and Metadata**
 
 **Ethics and Legal Compliance**
@@ -46,7 +47,7 @@ The expectation is to find areas where this paradigm exists and run a chi-square
 **Selection and Preservation**
 
 **Data Sharing**
-
+* The database created for coordinates of Texas High Schools will be shared publicly.
 **Responsibilities and Resources**
 
 
