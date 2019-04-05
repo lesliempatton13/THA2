@@ -39,15 +39,18 @@ The expectation is to find areas where this paradigm exists and run a chi-square
 * *Still need to create/collect database for all high school locations and further clean data to only include schools with documented coordinates*
 
 **Documentation and Metadata**
+* Data manipulation (calculating T-Tests) will be done and document in Colab, and each indicator T-Test Colab file will be downloaded and put into this repository.
 
 **Ethics and Legal Compliance**
 
 **Storage and Backup**
+* The data will be stored in this repository, and backed up via Colab. The data will thus be stores in three places: on my personal computer, in Colab (which automatically saves), and in this repository.
 
 **Selection and Preservation**
+* Data that is both shareable and long-term is the geographic locations of the high schools in Texas, as well as the resulting data showing any significant changes in test scores before and after Harvey. 
 
 **Data Sharing**
-* The database created for coordinates of Texas High Schools will be shared publicly.
+* The database created for coordinates of Texas High Schools will be shared publicly.The location of sharing this data is to be determined. 
 
 **Responsibilities and Resources**
 
