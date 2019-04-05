@@ -48,6 +48,7 @@ The expectation is to find areas where this paradigm exists and run a chi-square
 
 **Data Sharing**
 * The database created for coordinates of Texas High Schools will be shared publicly.
+
 **Responsibilities and Resources**
 
 
