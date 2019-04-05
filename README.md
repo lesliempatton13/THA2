@@ -4,7 +4,7 @@
 **Title of Research:**
 The Effect of Natural Disasters on Student Learning: A Case Study of Hurricane Harvey and Gulf Coast School Districts 
 
-**Research Questions:** Is student learning affected by the presence of a natural disaster and what policies does the State of Texas have in place to combat this? 
+**Research Question:** Is student learning affected by the presence of a natural disaster and what policies does the State of Texas have in place to combat this? 
 
 **Objectives:**
 * To identify any significant changes in student learning after a natural disaster using STAAR (State of Texas Assessment of Academic Readiness) data of secondary students
